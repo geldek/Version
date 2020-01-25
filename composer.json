@@ -1,0 +1,22 @@
+{
+    "name": "geldek/version",
+    "description": "Represents version number built from 4 components.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Peter Lukacovic",
+            "email": "peter_lukacovic@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
